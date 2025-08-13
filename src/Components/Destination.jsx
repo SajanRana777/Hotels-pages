@@ -1,6 +1,6 @@
 import React from "react";
 import Resorts1 from "../assets/Shimla.jpg";
-import Resorts2 from "../assets/kangra.jpg";
+import Resorts2 from "../assets/kangra1.2.jpg";
 import Pic from "../assets/Manali.jpg";
 import Pic2 from "../assets/Dharamshala.jpg";
 import Pic3 from "../assets/Bir billing.jpg";
