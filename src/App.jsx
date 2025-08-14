@@ -3,7 +3,7 @@ import Navbar from "./Components/Navbar"
 import Hero from "./Components/hero"
 import Destination from "./Components/Destination"
 import Search from "./Components/Search"
-import Selects from "../src/Components/Selects"
+import Selects from "./Components/Select1"
 function App() {
  return (
     <div>
