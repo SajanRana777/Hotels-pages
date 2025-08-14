@@ -1,11 +1,11 @@
 import React from 'react'
-import nature from '../assets/nature.mp4'
+import beachvc from '../assets/nature.mp4'
 import { AiOutlineSearch } from 'react-icons/ai'
 
 const hero = () => {
   return (
-    <div className='w-full h-screen relative'>
-    <video  className =" w-full h-full  object-cover"src={nature} autoPlay loop muted />
+    <div className='w-full h-full relative'>
+    <video  className =" w-full h-screen object-cover"src={beachvc} autoPlay loop muted />
 
    <div className='absolute w-full h-full top-0 left-0 bg-gray-900/30'></div>
  

@@ -28,7 +28,7 @@ const Navbar = () => {
         </h1>
       </div>
 
-      <ul className=" hidden md:flex text-black  text-lg ">
+      <ul className=" hidden md:flex text-black  text-lg font-bold ">
         <li>Home </li>
         <li>Destinations</li>
         <li>Travels</li>
