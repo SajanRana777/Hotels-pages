@@ -51,8 +51,8 @@ const Search = () => {
 
       <div className="">
         <div className="border text-center ">
-          <p className="border-b"> GET AN ADDITIONAL 10% OFF</p>
-          <p className="py-3"> 12HOURS LEFT </p>
+          <p className="border-b bg-gray-200" > GET AN ADDITIONAL 10% OFF</p>
+          <p className="py-3"> 12 HOURS LEFT </p>
           <p className="bg-gray-800  text-gray-200"> BOOK NOW AND SAVE</p>
         </div>
 
@@ -76,7 +76,7 @@ const Search = () => {
             <label>Check-Out</label>
             <input type="date"  className="border rounded-md p-2"/>
           </div>
-          <button className=" w-full my-4">Rate&Availabilities</button>
+          <button className=" w-full my-4">Rate & Availabilities</button>
         </form>
       </div>
     </div>

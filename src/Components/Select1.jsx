@@ -9,14 +9,16 @@ import Pic2 from "../assets/Dharamshala.jpg";
 
 const selects = ( ) => {
   return (
-    <div className=' max-w-[1240px] mx:auto  grid sm:grid-cols-2  lg:grid-cols-3 py-16 px-5 gap-4'>
+    <div className='max-w-[1240px] mx-auto py-16 px-8 grid sm:grid-cols-2 lg:grid-cols-3  gap-4 '>
        
+       <Selectscard bg={Resorts1}  text='Palampur'/>
        <Selectscard bg={Palampur}  text='Palampur'/>
-       <Selectscard bg={Resorts1}  text='Shimla'/>
-       <Selectscard bg={Resorts2}  text='Kangra'/>
-       <Selectscard bg={Pic}       text='Manali'/>
-       <Selectscard bg={Pic2}      text='Dharamshala'/>
-       <Selectscard bg={Resorts1}  text='Shimla'/>
+       <Selectscard bg={Resorts2}  text='Palampur'/>
+       <Selectscard bg={Resorts1}  text='Palampur'/>
+       <Selectscard bg={Pic}  text='Palampur'/>
+       <Selectscard bg={Pic2 }  text='Palampur'/>
+
+       
      
     </div>
   )

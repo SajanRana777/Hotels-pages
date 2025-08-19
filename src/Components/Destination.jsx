@@ -7,7 +7,7 @@ import Pic3 from "../assets/Bir billing.jpg";
 
 const Destination = () => {
   return (
-    <div className=" max-w-[1240px]  mx-auto py-15 px-4 text-center">
+    <div className=" max-w  mx-auto py-15 px-4 text-center">
       <h1> All-Inclusive Restors</h1>
       <p className="py-4"> On the Corlbbean's Best Beaches </p>
 
