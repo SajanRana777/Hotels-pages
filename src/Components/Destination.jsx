@@ -8,8 +8,8 @@ import Pic3 from "../assets/Bir billing.jpg";
 const Destination = () => {
   return (
     <div className=" max-w  mx-auto py-15 px-4 text-center">
-      <h1> All-Inclusive Restors</h1>
-      <p className="py-4"> On the Corlbbean's Best Beaches </p>
+      <h1> All-Inclusive Resort</h1>
+      <p className="py-4"> On the Best Travel Location </p>
 
       <div className=" grid grid-rows-none md:grid-cols-5 py-4 gap-2  md:gap-4  ">
         <div className="relative">

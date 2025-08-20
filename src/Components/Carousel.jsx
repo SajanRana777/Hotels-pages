@@ -2,15 +2,13 @@ import React, { useState } from "react";
 import { BsArrowLeftSquareFill,BsArrowRightSquareFill } from "react-icons/bs";
 const sliderData = [
   {
-    url: "https://media.istockphoto.com/id/1330571985/photo/dirt-road-in-mountains.webp?a=1&s=612x612&w=0&k=20&c=uRd3u5NE1EaIgiEMPz64433aJu4BvVdDiW7p7dJ_QWo=",
+    url: "https://th.bing.com/th/id/R.986ce046ad199c56441651d730ed2bfc?rik=MjvvEuiHd%2f9kWw&riu=http%3a%2f%2fmedia.cntraveller.in%2fwp-content%2fuploads%2f2017%2f01%2fspiti-lead-image.jpg&ehk=Hx0T7uHdw3ZmfjaDWZrbjb%2fGksyotA4tGN53M1h%2fb%2fo%3d&risl=&pid=ImgRaw&r=0",
   },
     
-  {
-    url:"https://media.istockphoto.com/id/677723756/photo/snow-hill.webp?a=1&b=1&s=612x612&w=0&k=20&c=vw7_JBVhBHC47tiXU2PyLbgXSDB5Ou3fypJnCDe8Qwc="
-  },
+  
 
   {
-    url: "https://images.unsplash.com/photo-1625244724120-1fd1d34d00f6?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8aG90ZWxzfGVufDB8fDB8fHww",
+    url: "https://theadventurenomads.com/wp-content/uploads/2018/03/1560701627_gopr0921.jpg",
   },
 ];
 
